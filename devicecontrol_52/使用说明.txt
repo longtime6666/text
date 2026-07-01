@@ -1,0 +1,4 @@
+去官网下载VortexVisual软件，https://vortexvisual.space
+运行软件前安装.net 9，https://dotnet.microsoft.com/download/dotnet/9.0
+将ai-aimbot文件夹丢到软件的plugins目录里，如果没有目录就先运行软件并登录，会自动创建文件夹
+然后看插件上的说明使用就行了

@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net9.0-windows</TargetFramework>
+    <UseWPF>true</UseWPF>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <OutputType>Library</OutputType>
+    <!-- 程序集名称必须与主程序一致，这样插件引用的类型才能在运行时正确解析 -->
+    <AssemblyName>VortexVisual</AssemblyName>
+  </PropertyGroup>
+
+</Project>
